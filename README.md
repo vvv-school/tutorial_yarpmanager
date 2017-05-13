@@ -4,7 +4,7 @@ Tutorial on Yarpmanager
 This tutorial will quickly guide you to use `yarpmanager` to run Yarp applications 
 
 You will learn how to  
-- Use [yarpmanager] (http://www.yarp.it/yarpmanager.html)
+- Use [yarpmanager](http://www.yarp.it/yarpmanager.html)
 - Run multiple instance of a module
 - Add connections 
 - Run module with dependency and other constraint 
