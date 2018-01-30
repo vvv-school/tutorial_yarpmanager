@@ -24,3 +24,9 @@ $ yarpmanager
 ```
 ![application](/misc/application.png)
 
+# Modify the application
+
+To modify the application you can edit the file `applications/tutorial_yarpmanager.xml`. Open and edit as you like the xml with a text editor. For example you can add another instance of `test_grabber` and `yarpview`. Try to modify the command line parameters of `test_grabber` for example to display a ball (`--mode ball`) instead of a line (`--mode line`).
+
+
+

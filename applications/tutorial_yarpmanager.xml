@@ -15,11 +15,10 @@
     </module>
 
     <module>
-        <name>test_grabber</name>
-        <parameters>--mode line </parameters>
+        <name>yarpdev</name>
+        <parameters>--device test_grabber --mode line </parameters>
         <node>localhost</node>
-        <deployer>yarpdev</deployer>
-    </module>
+     </module>
 
     <connection>
         <from>/grabber</from>
