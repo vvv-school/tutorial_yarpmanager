@@ -18,7 +18,7 @@ In this tutorial we build an application to run the YARP `test_grabber` and `yar
 
 # Running the tutorial application
 - Simply switch to the tutorial folder and run the `yarpmanager`. Then open/run the `Tutorial_Yarpmanager` application for the GUI then connect the ports: 
-```
+```bash
 $ cd tutorial_yarpmanager
 $ yarpmanager
 ```
