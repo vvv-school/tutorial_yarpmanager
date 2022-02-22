@@ -16,7 +16,7 @@
 
     <module>
         <name>yarpdev</name>
-        <parameters>--device test_grabber --mode line </parameters>
+        <parameters>--device fakeFrameGrabber --mode line </parameters>
         <node>localhost</node>
      </module>
 
